@@ -45,7 +45,7 @@ https://open-meteo.com/
 ---
 
 # 🧠 Estrutura do Projeto
-
+```bash
 lib/
 ├── main.dart
 │
@@ -66,8 +66,7 @@ lib/
 │ ├── search_box.dart
 │ ├── forecast_chart.dart
 │ └── weather_card.dart
-
-
+```
 ---
 
 # 🔧 Tecnologias Utilizadas
